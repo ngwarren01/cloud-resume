@@ -4722,9 +4722,3 @@ input[type="button"].btn--primary:focus {
     /* Other styles here */
 }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 20%;
-  }
